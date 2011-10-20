@@ -1,0 +1,290 @@
+TNavApp2
+v7
+r0
+t340760074.081334
+cCheck dependencies
+cProcessInfoPlistFile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/Info.plist NavApp2-Info.plist
+cCompileXIB /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/MainWindow.xib
+cCompileXIB /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/RootViewController.xib
+cCompileXIB /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/SubViewOne.xib
+cProcessPCH /var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch.gch NavApp2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/main.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/NavApp2AppDelegate.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/RootViewController.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/SubViewOneController.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.h
+c000000004E9F549600000000000001D7
+t1319064726
+s471
+i<UIKit/UIKit.h>
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.m
+c000000004E9F54960000000000000AC3
+t1319064726
+s2755
+i"NavApp2AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.h
+c000000004E9F549600000000000000EF
+t1319064726
+s239
+i<UIKit/UIKit.h>
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.m
+c000000004E9F549600000000000010C7
+t1319064726
+s4295
+i"RootViewController.h"
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.h
+c000000004E9F563D0000000000000185
+t1319065149
+s389
+i<UIKit/UIKit.h>
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m
+c000000004E9F57300000000000000719
+t1319065392
+s1817
+i"SubViewOneController.h"
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/MainWindow.xib
+c000000004E9F54960000000000005FF4
+t1319064726
+s24564
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/NavApp2_Prefix.pch
+c000000004E9F54960000000000000140
+t1319064726
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/RootViewController.xib
+c000000004E9F54960000000000004452
+t1319064726
+s17490
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/SubViewOne.xib
+c000000004E9F5E81000000000000573A
+t1319067265
+s22330
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app
+t2
+s0
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app.dSYM
+t2
+s0
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/Info.plist
+t1319067271
+s591
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/MainWindow.nib
+t1319067271
+s2456
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/NavApp2
+t2
+s0
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/PkgInfo
+t1319067271
+s8
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/RootViewController.nib
+t1319067271
+s1518
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/SubViewOne.nib
+t1319067271
+s3425
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/NavApp2.LinkFileList
+c000000004E9F5E8700000000000002A4
+t1319067271
+s676
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/NavApp2AppDelegate.o
+t1319067274
+s53096
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/RootViewController.o
+t1319067274
+s41680
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/SubViewOneController.o
+t2
+s0
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/main.o
+t1319067273
+s6384
+
+N/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/main.m
+c000000004E9F5496000000000000016D
+t1319064726
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch.gch
+t1319067273
+s15814064
+
+NNavApp2-Info.plist
+c000000004E9F5496000000000000038D
+t1319064726
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340760071#340760071#0(0"0(0#1#0"8614685792#0"0#
+
+CCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/NavApp2AppDelegate.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340760073.935822
+e340760074.021430
+r1
+xCompileC
+xbuild/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/NavApp2AppDelegate.o
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.m340760073#340760074#0(0"0(0#0#103"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.m8613279072#2346"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-generated-files.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-own-target-headers.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-all-target-headers.hmap -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-project-headers.hmap -F/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/include -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources/i386 -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources -include /var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch -c /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/NavApp2AppDelegate.m -o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/NavApp2AppDelegate.o0#
+
+CCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/RootViewController.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340760073.993473
+e340760074.080189
+r1
+xCompileC
+xbuild/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/RootViewController.o
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.m340760073#340760074#0(0"0(0#0#103"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.m8603136384#2346"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-generated-files.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-own-target-headers.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-all-target-headers.hmap -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-project-headers.hmap -F/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/include -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources/i386 -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources -include /var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch -c /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/RootViewController.m -o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/SubViewOneController.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340760074.021528
+e340760074.081273
+r0
+xCompileC
+xbuild/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/SubViewOneController.o
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m:14: error: no declaration of property 'button' found in the interface
+lSLF07#2@113"Compile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m340760074#340760074#0(176"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m:14: error: no declaration of property 'button' found in the interface1(4@58"No declaration of property 'button' found in the interface340760074#0#176#0(6@105"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m340758192#14#0#14#0#0"0(0#0#105"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m8613770848#2350"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-generated-files.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-own-target-headers.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-all-target-headers.hmap -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-project-headers.hmap -F/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/include -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources/i386 -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources -include /var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch -c /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/Classes/SubViewOneController.m -o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/SubViewOneController.o1#
+
+CCompileC build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/main.o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340760073.933782
+e340760073.993372
+r1
+xCompileC
+xbuild/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/main.o
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/main.m340760073#340760073#0(0"0(0#0#81"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/main.m8614488256#2310"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-generated-files.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-own-target-headers.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-all-target-headers.hmap -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-project-headers.hmap -F/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/include -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources/i386 -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources -include /var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch -c /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/main.m -o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/MainWindow.xib
+s340760071.103611
+e340760071.565570
+r1
+xCompileXIB
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib340760071#340760071#0(0"0(0#0#89"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/MainWindow.xib8603824256#678"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/MainWindow.nib /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/RootViewController.xib
+s340760071.130615
+e340760071.546768
+r1
+xCompileXIB
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib340760071#340760071#0(0"0(0#0#97"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/RootViewController.xib8603406272#694"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/RootViewController.nib /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/SubViewOne.xib
+s340760071.546855
+e340760071.960990
+r1
+xCompileXIB
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/SubViewOne.xib
+lSLF07#2@25"CompileXIB SubViewOne.xib340760071#340760071#0(0"0(0#0#89"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/SubViewOne.xib8613543808#678"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/SubViewOne.nib /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/SubViewOne.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app.dSYM /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/NavApp2
+r0
+
+CLd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/NavApp2 normal i386
+r0
+
+CProcessInfoPlistFile /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/Info.plist NavApp2-Info.plist
+s340760071.098402
+e340760071.103529
+r1
+xProcessInfoPlistFile
+x/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/Info.plist
+xNavApp2-Info.plist
+lSLF07#2@26"Process NavApp2-Info.plist340760071#340760071#0(0"0(0#0#93"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/NavApp2-Info.plist8613108000#587"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavApp2-Info.plist -genpkginfo /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app/Info.plist0#
+
+CProcessPCH /var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch.gch NavApp2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340760071.961105
+e340760073.933546
+r1
+xProcessPCH
+x/var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch.gch
+xNavApp2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile NavApp2_Prefix.pch340760071#340760073#0(0"0(0#0#93"/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/NavApp2_Prefix.pch8613152000#2166"    cd /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-generated-files.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-own-target-headers.hmap -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-all-target-headers.hmap -iquote /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/NavApp2-project-headers.hmap -F/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/include -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources/i386 -I/Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/NavApp2.build/Debug-iphonesimulator/NavApp2.build/DerivedSources -c /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/NavApp2_Prefix.pch -o /var/folders/wt/wtTg3vafF2S79z6aCK9ZxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp2_Prefix-dggskmqczcmnfmgjcyuelbrwlutp/NavApp2_Prefix.pch.gch0#
+
+CTouch /Users/matthewhartman/Documents/Apps/iphone/MyFirstView/TestNavApp/NavApp2/build/Debug-iphonesimulator/NavApp2.app
+r0
+
