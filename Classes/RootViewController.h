@@ -9,9 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface RootViewController : UITableViewController {
-	NSMutableArray *views;
+	IBOutlet NSMutableArray *views;
 }
 
-@property (nonatomic, retain) NSMutableArray *views;
+@property (nonatomic, retain) IBOutlet NSMutableArray *views;
 
 @end

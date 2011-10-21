@@ -25,7 +25,6 @@
     
     // Set the navigation controller as the window's root view controller and display.
     self.window.rootViewController = self.navigationController;
-	modelData = [[NSMutableString alloc] initWithString:@"Nothing set yet"];
     [self.window makeKeyAndVisible];
 
     return YES;
@@ -73,20 +72,13 @@
 - (void) setModelData:(NSString *) newData {
 	//UIAlertView *alert = [[[UIAlertView alloc] initWithTitle:@"Setting Model Data" message:@"Set Model Data" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil] autorelease];
 	//[alert show];
-	NSLog(@"Setting New Data:%@", newData);
-    if(newData) {
-		[modelData setString:newData];
-	} else {
-		[modelData setString: @"test"];
-	}
-	NSLog(@"%@", newData);
-    //[[NSNotificationCenter defaultCenter] postNotificationName:@"dataChangeEvent" object:self];
+    modelData = newData;
+    [[NSNotificationCenter defaultCenter] postNotificationName:@"dataChangeEvent" object:self];
 }
 
-- (NSMutableString *) getModelData {
-	
-    if (!modelData) {
-        [modelData setString: @"Hello World"];
+- (NSString *) getModelData {
+    if ( modelData == nil ) {
+        modelData = @"Hello World";
     }
     return modelData;
 }
@@ -102,7 +94,6 @@
 
 
 - (void)dealloc {
-	[modelData release];
 	[navigationController release];
 	[window release];
 	[super dealloc];
