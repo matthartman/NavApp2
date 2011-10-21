@@ -22,11 +22,12 @@
 	return self;
 }
 
-- (IBAction) OnButtonClick:(id) sender {
+- (void) OnButtonClick:(id) sender {
 	// this view will set our model data
     NavApp2AppDelegate *appDelegate = (NavApp2AppDelegate *)[[UIApplication sharedApplication] delegate];
     NSString *displayString = [NSString stringWithFormat: @"Set By %@", [self title]];
     [appDelegate setModelData:displayString];
+	[self getModelData];
 	//UIAlertView *alert = [[[UIAlertView alloc] initWithTitle:@"Button was clicked" message:@"Button Was Clicked" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil] autorelease];
 	//[alert show];
 }
@@ -39,10 +40,12 @@
     [self getModelData];
 }
 
+
 // set our label to reflect the latest copy of the data that we're observing
 - (void) getModelData {
     NavApp2AppDelegate *appDelegate = (NavApp2AppDelegate *)[[UIApplication sharedApplication] delegate];
-    [label setText:[appDelegate getModelData] ];
+	NSMutableString *text = [appDelegate getModelData];
+    [label setText:text ];
 }
 
 
@@ -63,12 +66,16 @@
 }
 */
 
-/*
+
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
+	[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(onDataChangeEvent:) name:@"dataChangeEvent" object:nil];
+	//postNotificationName:@"dataChangeEvent" object:self];
+
+
 }
-*/
+
 
 /*
 // Override to allow orientations other than the default portrait orientation.

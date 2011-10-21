@@ -17,6 +17,14 @@
 #pragma mark View lifecycle
 
 - (void)awakeFromNib {
+	
+}
+
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+
+	
 	// we'll keep track of our views in this array
 	views = [ [NSMutableArray alloc] init];
 	
@@ -53,17 +61,10 @@
 	
 	//set the title of the main view
 	self.title = @"Basic Navigation";
-}
-
-
-/*
-- (void)viewDidLoad {
-    [super viewDidLoad];
-
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
 }
-*/
+
 
 /*
 - (void)viewWillAppear:(BOOL)animated {
@@ -121,7 +122,7 @@
     }
     
 	// Configure the cell.
-	cell.text = [[views objectAtIndex:indexPath.row] objectForKey:@"title"];
+	[[cell textLabel] setText:[[views objectAtIndex:indexPath.row] objectForKey:@"title"]]; ;
     return cell;
 }
 
